@@ -73,3 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data used in this project.
 
 ---
+## ~Solomon Alexander
