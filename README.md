@@ -1,5 +1,7 @@
 # Pallotti College Weather Project
 
+### ~Solomon Alexander (Roll no. 61)
+
 ## Description
 
 This project is a web-based weather application developed for Pallotti College. It provides real-time weather information and forecasts.
