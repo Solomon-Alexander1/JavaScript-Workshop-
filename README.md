@@ -1,6 +1,8 @@
 # Pallotti College Weather Project
 
-### ~Solomon Alexander (Roll no. 61)
+## ~Solomon Alexander 
+## Roll no. 61
+## Branch : CSE(DS)
 
 ## Description
 
